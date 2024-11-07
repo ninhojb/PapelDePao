@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MLE/AI Generative/LanFlow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "LanFlow"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "9575d80c7f8c31e9",
   "lastOpenFiles": [
+    "Livros/DevOps.md",
+    "MLE/AI Generative/LanFlow.md",
+    "README.md",
     "Uteis/GitActions.md",
     "Uteis/Cliditas.md",
     "MLE/AI Generative/LiteLLM/LiteLLM.md",
@@ -171,7 +174,6 @@
     "Livros/Como escrever notas.md",
     "Ambiente teste/Testes Rápidos.md",
     "templates/Tarefas.md",
-    "README.md",
     "Uteis/Git.md"
   ]
 }
